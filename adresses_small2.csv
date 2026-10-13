@@ -1,0 +1,21 @@
+number,type,name,city,latitude,longitude,result_city,result_type
+5,rue,RIQUET,Paris,48.888134,2.376448,Paris,housenumber
+141,boulevard,ITALIE,Paris,48.820646,2.359275,Paris,housenumber
+234,rue,FAUBOURG ST-HONORÉ,Paris,48.87616,2.302766,Paris,housenumber
+62,rue,MICHEL BIZOT,Paris,48.835423,2.40204,Paris,housenumber
+6,rue,OURS,Paris,48.863311,2.351775,Paris,housenumber
+30,rue,PETIT-MUSC,Paris,48.852945,2.364722,Paris,housenumber
+3,impasse,MASSONET,Paris,48.895498,2.35158,Paris,housenumber
+56,rue,PANOYAUX,Paris,48.867023,2.388347,Paris,housenumber
+16,rue,THÉRÈSE,Paris,48.866374,2.335212,Paris,housenumber
+11,rue,JEAN ROBERT,Paris,48.88952,2.35817,Paris,housenumber
+22,rue,FAUBOURG POISSONNIÈRE,Paris,48.87254,2.348002,Paris,housenumber
+19,rue,CHALIGNY,Paris,48.846718,2.383559,Paris,housenumber
+77,rue,LILLE,Paris,48.8599,2.324857,Paris,housenumber
+64,rue,BAGNOLET,Paris,48.857795,2.399838,Paris,housenumber
+39,rue,ROMAINVILLE,Paris,48.877607,2.402001,Paris,housenumber
+4,rue,PIERRE DUPONT,Paris,48.878845,2.364598,Paris,housenumber
+3,place,MARCHÉ-Ste-CATHERINE,Paris,48.85544,2.362618,Paris,housenumber
+19,rue,VIALA,Paris,48.850276,2.290438,Paris,housenumber
+16,rue,ESPÉRANCE,Paris,48.826559,2.34778,Paris,housenumber
+51,rue,GRENELLE,Paris,48.854501,2.325625,Paris,housenumber
