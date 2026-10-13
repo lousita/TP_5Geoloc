@@ -1,0 +1,1001 @@
+number,type,name,city
+22,rue,FAUBOURG POISSONNIÈRE,Paris
+19,rue,CHALIGNY,Paris
+77,rue,LILLE,Paris
+64,rue,BAGNOLET,Paris
+39,rue,ROMAINVILLE,Paris
+4,rue,PIERRE DUPONT,Paris
+3,place,MARCHÉ-Ste-CATHERINE,Paris
+19,rue,VIALA,Paris
+16,rue,ESPÉRANCE,Paris
+51,rue,GRENELLE,Paris
+49,rue,LEPIC,Paris
+14,rue,DEBELLEYME,Paris
+34,avenue,VILLIERS,Paris
+10,rue,SAINT-FLORENTIN,Paris
+7,rue,EUGÈNE DELACROIX,Paris
+8,rue,THOREL,Paris
+40,rue,BAC,Paris
+2,impasse,ONFROY,Paris
+68,rue,JEAN-JACQUES ROUSSEAU,Paris
+51,rue,ALOUETTES,Paris
+65,rue,FAUBOURG ST-HONORÉ,Paris
+7,rue,ROULE,Paris
+5,rue,POINTE D'IVRY,Paris
+13,rue,SABLIÈRE,Paris
+86,avenue,ITALIE,Paris
+90,avenue,ITALIE,Paris
+21,rue,ROUSSIN,Paris
+60,boulevard,COURCELLES,Paris
+8,rue,FEUTRIER,Paris
+62,rue,CHATEAU DES RENTIERS,Paris
+150,rue,RENNES,Paris
+101,rue,CHERCHE-MIDI,Paris
+10,rue,FAUBOURG SAINT-DENIS,Paris
+48,boulevard,VOLTAIRE,Paris
+92,avenue,SUFFREN,Paris
+2,rue,COUSTOU,Paris
+17,boulevard,POISSONNIÈRE,Paris
+204,rue,FAUBOURG SAINT-DENIS,Paris
+82,avenue,IVRY,Paris
+5,rue,SABLONS,Paris
+20,rue,CHORON,Paris
+5,rue,LIANCOURT,Paris
+49,rue,BONAPARTE,Paris
+34,rue,GALILÉE,Paris
+38,rue,MEUNIERS,Paris
+74,rue,SAINT-LAZARE,Paris
+18,rue,LEDION,Paris
+8,impasse,DECRÈS,Paris
+53,rue,ORDENER,Paris
+34,rue,MARAICHERS,Paris
+4,rue,COLMAR,Paris
+10,rue,MARONITES,Paris
+109,rue,SAINT-ANTOINE,Paris
+22,rue,PÉPINIÈRE,Paris
+30,rue,FÉLICIEN DAVID,Paris
+24,rue,TOUL,Paris
+15,rue,CAMPAGNE-PREMIÈRE,Paris
+33,rue,RICHELIEU,Paris
+5,rue,AUGUSTE-VACQUERIE,Paris
+7,rue,LEROUX,Paris
+94,rue,TURENNE,Paris
+19,rue,N.-D. DE LORETTE,Paris
+10,place,DANCOURT,Paris
+35,rue,AUDE,Paris
+7,avenue,SUFFREN,Paris
+64,rue,BARGUE,Paris
+102,rue,MEAUX,Paris
+10,avenue,VICTOR-HUGO,Paris
+17,rue,ROMAINVILLE,Paris
+28,rue,GOUTTE D'OR,Paris
+87,rue,ASSAS,Paris
+51,rue,ALBERT,Paris
+7,rue,MEAUX,Paris
+29,rue,BRUXELLES,Paris
+11,rue,SAULES,Paris
+2,passage,DUDOUY,Paris
+8,rue,DESGENETTES,Paris
+21,rue,CLAUDE POUILLET,Paris
+25,rue,CASIMIR PÉRIER,Paris
+137,rue,PICPUS,Paris
+13,rue,BOURG-TIBOURG,Paris
+19,rue,LAMBERT,Paris
+21,rue,F FRANCS-BOURGEOIS,Paris
+11,rue,LOUVRE,Paris
+26,rue,ARCADE,Paris
+24,rue,MONTPENSIER,Paris
+23,rue,LAHIRE,Paris
+35,rue,LACROIX,Paris
+3,rue,JOSÉPHINE,Paris
+137,boulevard,HAUSSMANN,Paris
+3,rue,SAINTE-FOY,Paris
+4,rue,BRÉMONTIER,Paris
+147,rue,BELLEVILLE,Paris
+13,rue,SIAM,Paris
+219,rue,FAUBOURG SAINT-ANTOINE,Paris
+88,rue,NOLLET,Paris
+10,rue,JEAN BOLOGNE,Paris
+11,rue,BOINOD,Paris
+282,rue,SAINT-HONORÉ,Paris
+8,rue,CAPRON,Paris
+21,rue,BISSON,Paris
+7,rue,POISSY,Paris
+183,rue,FAUBOURG SAINT-ANTOINE,Paris
+5,passage,DULAC,Paris
+11,rue,MANSART,Paris
+94,rue,MEAUX,Paris
+39,quai,ORSAY,Paris
+25,rue,VIEUX-COLOMBIER,Paris
+11,rue,ASTORG,Paris
+3,passage,SAULNIER,Paris
+33,rue,BERGÈRE,Paris
+1,rue,FÉLICIEN DAVID,Paris
+5,passage,BRIE,Paris
+35,rue,CLEF,Paris
+24,rue,SAINT-DENIS,Paris
+21,boulevard,SAINT-GERMAIN,Paris
+50,rue,CHALON,Paris
+16,rue,ÉCHAUDÉ,Paris
+25,rue,BEZOUT,Paris
+223,rue,ALÉSIA,Paris
+237,boulevard,SAINT-GERMAIN,Paris
+10,passage,CHAMP-MARIE,Paris
+120,rue,POMPE,Paris
+91,boulevard,BRUNE,Paris
+55,rue,FRANÇOIS Ier,Paris
+80,avenue,St-OUEN,Paris
+82,rue,LAUGIER,Paris
+18,rue,MILTON,Paris
+7,passage,ALPHAN,Paris
+20,rue,LAGNY,Paris
+1,rue,DARCY,Paris
+1,rue,CANIVET,Paris
+33,rue,MOUFFETARD,Paris
+8,avenue,PHILIPPE-AUGUSTE,Paris
+22,rue,CHINE,Paris
+14,boulevard,SAINT-DENIS,Paris
+99,rue,SAINT-HONORÉ,Paris
+33,rue,LANTIEZ,Paris
+18,avenue,MESSINE,Paris
+129,rue,VERCINGÉTORIX,Paris
+35,rue,BÉNARD,Paris
+44,rue,BOULAINVILLIERS,Paris
+8,rue,SÉVIGNÉ,Paris
+53,rue,MARTYRS,Paris
+95,boulevard,PEREIRE,Paris
+1,rue,RENARD,Paris
+17,rue,DOUDEAUVILLE,Paris
+24,quai,LOUVRE,Paris
+17,rue,EURE,Paris
+46,rue,BARGUE,Paris
+4,passage,RUELLE,Paris
+21,rue,DAUPHINE,Paris
+5,rue,THÉNARD,Paris
+3,impasse,ÉGLISE,Paris
+14,rue,HÉLIOPOLIS,Paris
+8,rue,CHEMIN-VERT,Paris
+15,passage,BOURNISIEN,Paris
+5,rue,LAFFITTE,Paris
+95,boulevard,MONTMORENCY,Paris
+19,rue,VANEAU,Paris
+130,rue,PELLEPORT,Paris
+4,rue,MARBEAU,Paris
+14,rue,HUCHETTE,Paris
+106,rue,SAINT-MARTIN,Paris
+114,avenue,SUFFREN,Paris
+96,rue,FAUBOURG SAINT-ANTOINE,Paris
+5,avenue,VAUGIRARD,Paris
+1,rue,DELBET,Paris
+32,rue,BIENFAISANCE,Paris
+5,rue,JUGE,Paris
+2,rue,CRUSSOL,Paris
+26,boulevard,SÉBASTOPOL,Paris
+52,rue,PASCAL,Paris
+50,rue,BOULAINVILLIERS,Paris
+79,rue,RÉBEVAL,Paris
+81,rue,MAUBEUGE,Paris
+25,rue,POMPE,Paris
+15,rue,FROISSART,Paris
+275,rue,PYRÉNÉES,Paris
+18,rue,COLONEL OUDOT,Paris
+44,rue,FAUBOURG MONTMARTRE,Paris
+49,boulevard,CLICHY,Paris
+143,rue,SAINT-CHARLES,Paris
+36,rue,TURBIGO,Paris
+2,rue,RATAUD,Paris
+113,rue,VAUGIRARD,Paris
+35,rue,NAVIER,Paris
+13,boulevard,VOLTAIRE,Paris
+132,rue,TEMPLE,Paris
+6,rue,PASSY,Paris
+55,rue,SAINTONGE,Paris
+113,boulevard,SÉBASTOPOL,Paris
+4,passage,ORTEAUX,Paris
+2,rue,CASIMIR DELAVIGNE,Paris
+127,rue,OURCQ,Paris
+35,rue,PÉPINIÈRE,Paris
+9,rue,AUGER,Paris
+50,rue,LEPIC,Paris
+7,cité,GAILLARD,Paris
+1,passage,VIOLET,Paris
+55,rue,SAINT-SÉBASTIEN,Paris
+63,rue,MONTPARNASSE,Paris
+53,rue,BOIS,Paris
+18,rue,MONTPARNASSE,Paris
+68,rue,FAUBOURG MONTMARTRE,Paris
+21,rue,LONDRES,Paris
+64,rue,GRENÉTA,Paris
+46,rue,ARGOUT,Paris
+8,rue,SAINTS-PÈRES,Paris
+36,rue,SAINT-JACQUES,Paris
+186,rue,FAUBOURG SAINT-MARTIN,Paris
+14,rue,FRANÇOIS MIRON,Paris
+2,rue,HOTEL DE VILLE,Paris
+15,impasse,MARCÈS,Paris
+39,rue,RETRAIT,Paris
+27,boulevard,HAUSSMANN,Paris
+71,rue,MARTYRS,Paris
+58,boulevard,VOLTAIRE,Paris
+16,rue,MOURAUD,Paris
+108,rue,LECOURBE,Paris
+69,rue,RIGOLES,Paris
+5,rue,CLOTAIRE,Paris
+43,rue,ROI DE SICILE,Paris
+2,rue,CHEVALERET,Paris
+10,rue,RAMEY,Paris
+5,rue,LEPIC,Paris
+55,rue,CHEMIN-VERT,Paris
+4,rue,CONSTANCE,Paris
+43,rue,PIXÉRÉCOURT,Paris
+11,passage,UNION,Paris
+20,rue,GLACIÈRE,Paris
+1,rue,RONDONNEAUX,Paris
+105,rue,CLAUDE DECAEN,Paris
+19,cité,DUPONT,Paris
+12,rue,GINOUX,Paris
+42,rue,MEAUX,Paris
+93,rue,JAVEL,Paris
+18,rue,LACHARRIÈRE,Paris
+153,avenue,MAINE,Paris
+3,rue,FAIDHERBE,Paris
+3,rue,JESSAINT,Paris
+23,rue,SERPENTE,Paris
+51,rue,ACACIAS,Paris
+133,boulevard,MURAT,Paris
+3,rue,BABYLONE,Paris
+103,rue,ORDENER,Paris
+5,rue,LA VIEUVILLE,Paris
+6,impasse,DELÉPINE,Paris
+48,rue,FAUBOURG DU TEMPLE,Paris
+252,rue,CHARENTON,Paris
+2,rue,BOURGON,Paris
+6,rue,GAGER GABILLOT,Paris
+2,rue,TOCQUEVILLE,Paris
+41,rue,DAVY,Paris
+13,rue,AMBROISE PARÉ,Paris
+70,rue,BELLEVILLE,Paris
+54,rue,BARGUE,Paris
+4,rue,CHERCHE-MIDI,Paris
+21,rue,PIERRE LESCOT,Paris
+246,rue,CHARENTON,Paris
+25,rue,ALÉSIA,Paris
+55,rue,RENNEQUIN,Paris
+124,boulevard,MASSÉNA,Paris
+25,rue,LUBECK,Paris
+262,boulevard,VOLTAIRE,Paris
+235,rue,CHARENTON,Paris
+7,rue,POUCHET,Paris
+34,rue,LETORT,Paris
+9,rue,CLICHY,Paris
+42,rue,TROUSSEAU,Paris
+4,rue,COTTE,Paris
+20,boulevard,CAPUCINES,Paris
+21,avenue,IÉNA,Paris
+43,rue,PETITS-CHAMPS,Paris
+12,passage,TOURNUS,Paris
+10,rue,BERNE,Paris
+4,place,RIVOLI,Paris
+25,rue,ANCIENNE COMÉDIE,Paris
+22,rue,TROIS BORNES,Paris
+27,rue,FONTAINE,Paris
+10,rue,PÉTION,Paris
+16,place,VENDOME,Paris
+34,rue,MORET,Paris
+25,rue,LEVERT,Paris
+43,rue,ESQUIROL,Paris
+23,rue,CHAUSSÉE D'ANTIN,Paris
+107,rue,DAMES,Paris
+7,rue,LAUZIN,Paris
+8,rue,ORIENT,Paris
+8,impasse,CANART,Paris
+4,rue,EXPOSITION,Paris
+101,rue,BOILEAU,Paris
+192,rue,FAUBOURG SAINT-DENIS,Paris
+40,rue,FÉLICITÉ,Paris
+42,rue,MONTPARNASSE,Paris
+18,rue,LOUIS DAVID,Paris
+2,rue,LEGRAVEREND,Paris
+97,rue,LEGENDRE,Paris
+15,rue,COMÉTE,Paris
+183,avenue,CHOISY,Paris
+21,quai,MALAQUAIS,Paris
+22,rue,CLER,Paris
+106,rue,PYRÉNÉES,Paris
+1,rue,DESBORDES-VALMORE,Paris
+66,rue,PASSY,Paris
+12,rue,NESLES,Paris
+10,rue,BUZELIN,Paris
+101,avenue,CHOISY,Paris
+1,rue,GÉNÉRAL BRUNET,Paris
+34,rue,RONDEAUX,Paris
+200,rue,CHATEAU DES RENTIERS,Paris
+3,place,DANUBE,Paris
+31,rue,RENDEZ-VOUS,Paris
+1,rue,MONSIEUR LE PRINCE,Paris
+1,rue,ROHAN,Paris
+1,passage,MONCEY,Paris
+2,rue,CUGNOT,Paris
+364,rue,SAINT-HONORÉ,Paris
+20,rue,BOIS-LE-VENT,Paris
+64,rue,CHAPELLE,Paris
+85,avenue,SAINT-MANDE,Paris
+49,rue,MICHEL BIZOT,Paris
+16,rue,ROCHEBRUNE,Paris
+3,impasse,SAINT-CLAUDE,Paris
+14,sentier,FALAISES,Paris
+35,rue,ÉCHIQUIER,Paris
+8,rue,GÉRANDO,Paris
+3,rue,ALEXANDRE CABANEL,Paris
+42,avenue,GABRIEL,Paris
+16,rue,CLICHY,Paris
+21,avenue,ANTIN,Paris
+4,avenue,MESSINE,Paris
+312,rue,VAUGIRARD,Paris
+61,rue,PROVENCE,Paris
+37,rue,FAUBOURG SAINT-DENIS,Paris
+98,boulevard,KELLERMANN,Paris
+1,rue,SAINTE-CLAIRE-DEVILLE,Paris
+39,rue,SEDAINE,Paris
+55,rue,GOUTTE D'OR,Paris
+57,rue,PLAINE,Paris
+4,rue,ESPÉRANCE,Paris
+47,rue,GAY-LUSSAC,Paris
+27,rue,CLAUDE LORRAIN,Paris
+1,rue,JULES CÉSAR,Paris
+6,rue,ROCHECHOUART,Paris
+81,rue,RAMBUTEAU,Paris
+20,rue,THÉRÈSE,Paris
+152,boulevard,HAUSSMANN,Paris
+53,rue,CROIX-St-SIMON,Paris
+6,rue,SAUVAL,Paris
+10,rue,VAUGIRARD,Paris
+11,boulevard,CLICHY,Paris
+15,rue,MOUZAIA,Paris
+7,rue,LACORDAIRE,Paris
+102,avenue,TERNES,Paris
+70,rue,ASSOMPTION,Paris
+14,rue,QUATRE-VENTS,Paris
+69,rue,FAUBOURG ST-HONORÉ,Paris
+7,cité,JARRY,Paris
+36,rue,VOLGA,Paris
+70,rue,VERRERIE,Paris
+2,rue,GAILLON,Paris
+22,rue,MATIGNON,Paris
+9,rue,CAMPO-FORMIO,Paris
+1,passage,ST-PIERRE AMELOT,Paris
+2,rue,SAINT- JÉROME,Paris
+11,rue,SÉVIGNÉ,Paris
+26,rue,LABAT,Paris
+32,avenue,PARMENTIER,Paris
+98,quai,JEMMAPES,Paris
+35,rue,VAVIN,Paris
+12,impasse,VASSOU,Paris
+8,rue,ARTISTES,Paris
+15,rue,SAINTE-ANASTASE,Paris
+146,rue,CHATEAU,Paris
+81,rue,ORTEAUX,Paris
+48,rue,RANELAGH,Paris
+23,rue,MORILLONS,Paris
+198,rue,RIVOLI,Paris
+56,rue,CLER,Paris
+12,rue,DAMES,Paris
+83,rue,TAITBOUT,Paris
+72,rue,POISSONNIERS,Paris
+147,rue,ORDENER,Paris
+19,rue,CHATEAU D'EAU,Paris
+68,rue,NATIONALE,Paris
+5,rue,BRUNEL,Paris
+29,rue,MOLITOR,Paris
+26,sentier,FALAISES,Paris
+13,rue,DAGUERRE,Paris
+65,rue,JAVEL,Paris
+22,passage,BOUCHARDY,Paris
+2,rue,ÉBRE,Paris
+71,rue,MONCEAU,Paris
+29,rue,MADAME,Paris
+25,villa,SADI-CARNOT,Paris
+5,cité,DUPETIT-THOUARS,Paris
+98,rue,OUEST,Paris
+268,avenue,DAUMESNIL,Paris
+29,rue,REUILLY,Paris
+28,rue,MURILLO,Paris
+3,rue,SALNEUVE,Paris
+48,rue,ASSAS,Paris
+4,place,ALPES,Paris
+106,boulevard,HAUSSMANN,Paris
+21,rue,CHARLOT,Paris
+3,rue,LÉCLUSE,Paris
+13,rue,PASTEUR,Paris
+1,rue,ALLÉE VERTE,Paris
+144,avenue,MAINE,Paris
+39,rue,MANIN,Paris
+45,rue,CLÉRY,Paris
+8,impasse,DESGRAIS,Paris
+6,rue,LINCOLN,Paris
+15,rue,PLAISANCE,Paris
+39,rue,DELAMBRE,Paris
+18,rue,DANVILLE,Paris
+139,rue,LEGENDRE,Paris
+15,rue,ROME,Paris
+46,rue,RIGOLES,Paris
+146,rue,ORDENER,Paris
+4,rue,ARGENTEUIL,Paris
+3,rue,AMELOT,Paris
+2,rue,BOTZARIS,Paris
+33,rue,BARRAULT,Paris
+17,passage,WATTIAUX,Paris
+16,rue,GAILLON,Paris
+2,rue,FÉROU,Paris
+76,rue,ABBÉ GROULT,Paris
+165,rue,MÉNILMONTANT,Paris
+21,rue,AUBRY-LE-BOUCHER,Paris
+9,rue,VITAL,Paris
+9,rue,JOSEPH DIJON,Paris
+15,rue,JARDINIERS,Paris
+220,rue,TOLBIAC,Paris
+68,avenue,BOSQUET,Paris
+127,boulevard,MURAT,Paris
+6,passage,RUELLE,Paris
+23,rue,LA TOUR D'AUVERGNE,Paris
+18,rue,NEVERS,Paris
+67,avenue,BRETEUIL,Paris
+52,rue,VICTOIRE,Paris
+4,rue,BEAUTREILLIS,Paris
+21,rue,FEUILLANTINES,Paris
+40,rue,ROMAINVILLE,Paris
+28,rue,ÉCHIQUIER,Paris
+45,rue,HARPE,Paris
+9,rue,CASIMIR PÉRIER,Paris
+13,rue,SIMART,Paris
+9,rue,BASFROI,Paris
+58,rue,SAINT-LOUIS en l'ILE,Paris
+7,rue,HAVRE,Paris
+14,rue,VICQ d'AZIR,Paris
+59,rue,BATIGNOLLES,Paris
+17,rue,TERRAGE,Paris
+13,rue,PRINCESSE,Paris
+26,avenue,TERNES,Paris
+16,rue,BERNARD PALISSY,Paris
+6,rue,JEANNE HACHETTE,Paris
+21,rue,JEAN BEAUSSIRE,Paris
+4,rue,MAUBEUGE,Paris
+68,rue,LÉVIS,Paris
+44,rue,PROVENCE,Paris
+5,passage,LIGNER,Paris
+3,passage,ENTREPRENEURS,Paris
+89,rue,LEPIC,Paris
+9,boulevard,CAPUCINES,Paris
+38,rue,GALILÉE,Paris
+13,rue,JACQUEMONT,Paris
+9,rue,DEJEAN,Paris
+23,rue,JUSSIEU,Paris
+300,rue,BELLEVILLE,Paris
+23,rue,LEPIC,Paris
+1,rue,FERRONNERIE,Paris
+8,villa,SADI-CARNOT,Paris
+81,rue,ROCHECHOUART,Paris
+52,rue,MYRHA,Paris
+219,boulevard,VOLTAIRE,Paris
+27,rue,BASSANO,Paris
+54,rue,GOUTTE D'OR,Paris
+59,avenue,OBSERVATOIRE,Paris
+10,boulevard,SAINT-DENIS,Paris
+113,avenue,CLICHY,Paris
+6,rue,PIERRE LEROUX,Paris
+4,rue,ARQUEBUSIERS,Paris
+3,rue,BERVIC,Paris
+31,boulevard,SAINT-GERMAIN,Paris
+50,rue,LAMARTINE,Paris
+8,rue,GAY-LUSSAC,Paris
+10,rue,LEBOUIS,Paris
+97,rue,TURENNE,Paris
+1,rue,ALEXANDRE DUMAS,Paris
+24,rue,CANETTES,Paris
+18,boulevard,RICHARD LENOIR,Paris
+29,rue,POISSONNIERS,Paris
+9,rue,PRADIER,Paris
+12,rue,FAUBOURG SAINT-DENIS,Paris
+29,rue,CHATEAU-LANDON,Paris
+12,rue,VITRUVE,Paris
+38,avenue,FRIEDLAND,Paris
+3,rue,ASSELIN,Paris
+12,rue,GRENÉTA,Paris
+75,rue,CLAUDE BERNARD,Paris
+1,rue,CHEMIN-VERT,Paris
+9,cour,PETITES ÉCURIES,Paris
+46,rue,POMPE,Paris
+22,rue,MULLER,Paris
+124,rue,ABBÉ GROULT,Paris
+4,rue,BAUDELIQUE,Paris
+369,rue,VAUGIRARD,Paris
+53,rue,ALEXANDRE DUMAS,Paris
+8,rue,HAVRE,Paris
+44,rue,EMÉRIAU,Paris
+46,rue,BELLECHASSE,Paris
+24,rue,DENFERT-ROCHEREAU,Paris
+85,rue,POMPE,Paris
+86,rue,DUNKERQUE,Paris
+15,rue,AMÉLIE,Paris
+14,rue,GAUTHEY,Paris
+303,rue,SAINT-JACQUES,Paris
+51,rue,NATIONALE,Paris
+18,passage,CHANTIER,Paris
+89,rue,ROCHER,Paris
+32,avenue,LA MOTTE-PICQUET,Paris
+99,rue,GLACIÈRE,Paris
+50,rue,AMPÈRE,Paris
+38,rue,ALÉSIA,Paris
+29,quai,AUSTERLITZ,Paris
+36,avenue,MAINE,Paris
+4,rue,BURQ,Paris
+8,rue,CHEVERUS,Paris
+3,passage,MARCHÉ DES PATRIARCHES,Paris
+43,rue,SAINT-DENIS,Paris
+21,rue,PLANTES,Paris
+10,rue,TERRES-AU-CURÉ,Paris
+1,rue,SOPHIE GERMAIN,Paris
+51,rue,MOULIN DES PRÉS,Paris
+311,rue,BELLEVILLE,Paris
+60,boulevard,STRASBOURG,Paris
+17,rue,BALZAC,Paris
+18,rue,DECRÈS,Paris
+6,rue,STÉPHENSON,Paris
+10,rue,MIGNOTTES,Paris
+17,rue,CLIGNANCOURT,Paris
+11,impasse,MASSONET,Paris
+38,rue,GAUTHEY,Paris
+12,rue,DOME,Paris
+31,rue,HERMEL,Paris
+14,boulevard,MORLAND,Paris
+7,rue,GARANCIÈRE,Paris
+19,rue,DUPHOT,Paris
+27,rue,ARCHIVES,Paris
+13,avenue,EYLAU,Paris
+19,rue,SAINT-LOUIS en l'ILE,Paris
+34,rue,RICHELIEU,Paris
+49,rue,TURBIGO,Paris
+182,avenue,VERSAILLES,Paris
+38,rue,CAMPO-FORMIO,Paris
+25,rue,TROIS BORNES,Paris
+39,rue,VALOIS,Paris
+211,rue,TOLBIAC,Paris
+5,impasse,DELIGNY,Paris
+320,rue,PYRÉNÉES,Paris
+32,boulevard,TEMPLE,Paris
+1,passage,PERREUX,Paris
+29,boulevard,LA TOUR-MAUBOURG,Paris
+47,rue,MALTE,Paris
+3,rue,JARDINET,Paris
+6,passage,DRIANCOURT,Paris
+16,rue,N.-D. DE LORETTE,Paris
+106,rue,VIEILLE DU TEMPLE,Paris
+380,rue,VAUGIRARD,Paris
+126,boulevard,RICHARD LENOIR,Paris
+96,rue,MOUFFETARD,Paris
+22,rue,JEAN GOUJON,Paris
+116,rue,SAINT-MAUR,Paris
+23,rue,CINQ-DIAMANTS,Paris
+20,rue,CAMBRONNE,Paris
+2,passage,SIMONET,Paris
+11,impasse,SAINT-CHARLES,Paris
+49,rue,SAINT-ROCH,Paris
+9,rue,SAIGON,Paris
+11,passage,LIGNER,Paris
+24,rue,PASCAL,Paris
+16,cité,BISSON,Paris
+22,rue,DUNKERQUE,Paris
+5,rue,TOUR,Paris
+7,rue,BOURSE,Paris
+4,rue,FORGE-ROYALE,Paris
+83,rue,OLIVIER DE SERRES,Paris
+63,rue,MÉNILMONTANT,Paris
+25,rue,MADEMOISELLE,Paris
+88,rue,MARE,Paris
+8,rue,LILAS,Paris
+23,rue,MYRHA,Paris
+12,rue,LAURENT PICHAT,Paris
+2,rue,CAPLAT,Paris
+99,rue,PHILIPPE DE GIRARD,Paris
+65,rue,DOUDEAUVILLE,Paris
+281,rue,VAUGIRARD,Paris
+130,rue,CLIGNANCOURT,Paris
+11,rue,ABBÉ DE L'ÉPÉE,Paris
+26,rue,YVETTE,Paris
+10,rue,CHARTRES,Paris
+99,rue,FOLIE-MÉRICOURT,Paris
+23,rue,LAVANDIÈRES-Ste-OPPORTUNE,Paris
+24,passage,DOUDEAUVILLE,Paris
+149,avenue,CHOISY,Paris
+84,rue,BAGNOLET,Paris
+24,rue,SAINT-DIDIER,Paris
+3,rue,PY,Paris
+33,avenue,OPÉRA,Paris
+18,rue,MONTBRUN,Paris
+133,rue,DAMRÉMONT,Paris
+41,rue,DAGUERRE,Paris
+3,place,VICTOIRES,Paris
+36,rue,BOURET,Paris
+82,rue,BONAPARTE,Paris
+7,rue,PAULY,Paris
+7,rue,BOULARD,Paris
+18,rue,LE REGRATTIER,Paris
+6,cité,MALESHERBES,Paris
+13,rue,LAHIRE,Paris
+94,boulevard,MALESHERBES,Paris
+49,rue,ABOUKIR,Paris
+63,rue,CHAPELLE,Paris
+64,rue,CÉVENNES,Paris
+9,rue,LORRAINE,Paris
+252,rue,SAINT-MARTIN,Paris
+39,rue,COMPANS,Paris
+72,avenue,SAINT-MANDE,Paris
+48,rue,ABBÉ GROULT,Paris
+41,rue,ROUELLE,Paris
+9,rue,JURA,Paris
+4,rue,THANN,Paris
+1,rue,GAGER GABILLOT,Paris
+8,rue,CURIAL,Paris
+24,rue,TOUR,Paris
+22,rue,TOCQUEVILLE,Paris
+1,rue et place,BRÉDA,Paris
+47,rue,FRANÇOIS Ier,Paris
+79,rue,SÈVRES,Paris
+5,passage,RETRAIT,Paris
+42,rue,PHILIPPE DE GIRARD,Paris
+15,rue,JACQUES KABLÉ,Paris
+1,rue,S- SAINT-RUSTIQUE,Paris
+35,rue,VIGNOLES,Paris
+2,boulevard,HENRI IV,Paris
+20,rue,BERLIOZ,Paris
+37,boulevard,EXELMANS,Paris
+2,rue,GRIL,Paris
+1,rue,MEAUX,Paris
+1,boulevard,GOUVION-ST-CYR,Paris
+2,rue,LÉONIE,Paris
+3,rue,HANOVRE,Paris
+4,rue,VANVES,Paris
+1,rue,TOUSSAINT-FÉRON,Paris
+20,rue,MADRID,Paris
+95,boulevard,EXELMANS,Paris
+175,avenue,CLICHY,Paris
+40,rue,BIENFAISANCE,Paris
+34,rue,CHINE,Paris
+45,boulevard,VOLTAIRE,Paris
+9,passage,DULAC,Paris
+7,rue,OBERKAMPF,Paris
+43,rue,MONTAGNE-Ste-GENEVIÈVE,Paris
+26,rue,LAPPE,Paris
+21,rue,BOURDONNAIS,Paris
+41,rue,DUÉE,Paris
+31,rue,GALANDE,Paris
+10,rue,INDUSTRIE,Paris
+29,rue,PIAT,Paris
+77,rue,BUZENVAL,Paris
+19,rue,MATHURINS,Paris
+30,rue,SAUSSURE,Paris
+8,rue,JEAN COTTIN,Paris
+24,rue,SPONTINI,Paris
+9,rue,ALLÉE VERTE,Paris
+65,rue,ALLERAY,Paris
+3,impasse,ONFROY,Paris
+4,rue,JUILLET,Paris
+18,rue,BELLEVUE,Paris
+9,rue,CLAUZEL,Paris
+36,rue,ANNELETS,Paris
+13,rue,MONTMORENCY,Paris
+78,rue,GERGOVIE,Paris
+91,avenue,HENRI MARTIN,Paris
+10,rue,MARTIN BERNARD,Paris
+7,rue,RUTY,Paris
+21,rue et place,BRÉDA,Paris
+17,rue,LOUIS BRAILLE,Paris
+87,rue,FLANDRE,Paris
+107,rue,PRONY,Paris
+9,rue,DELAMBRE,Paris
+53,rue,TOUR,Paris
+60,rue,GAY-LUSSAC,Paris
+91,rue,FLANDRE,Paris
+3,rue,SAINT-MARTIN,Paris
+27,rue,BEAUREPAIRE,Paris
+147,rue,SAINT-DOMINIQUE,Paris
+65,rue,VICTOIRE,Paris
+27,rue,LANTIEZ,Paris
+7,rue,GODEFROY,Paris
+5,rue,BOUDREAU,Paris
+46,rue,AVRON,Paris
+6,rue,CHOISEUL,Paris
+118,rue,BELLEVILLE,Paris
+51,rue,LISBONNE,Paris
+1,rue,SAINT-SÉBASTIEN,Paris
+23,rue,CAULAINCOURT,Paris
+78,rue,SEINE,Paris
+99,rue,AMELOT,Paris
+65,rue,LABROUSTE,Paris
+167,boulevard,VOLTAIRE,Paris
+2,cour,DRAGON,Paris
+114,boulevard,RICHARD LENOIR,Paris
+6,rue,JACQUEMONT,Paris
+13,rue,TIPHAINE,Paris
+11,place,COMMERCE,Paris
+6,quai,CÉLESTINS,Paris
+4,rue,PERDONNET,Paris
+46,rue,GASSENDI,Paris
+13,passage,FAVORITES,Paris
+20,rue,LISBONNE,Paris
+23,avenue,RAPP,Paris
+2,rue,FREYCINET,Paris
+40,quai,AUTEUIL,Paris
+49,rue,MADAME,Paris
+21,rue,TOMBE-ISSOIRE,Paris
+25,rue,ACACIAS,Paris
+50,avenue,HOCHE,Paris
+152,boulevard,GRENELLE,Paris
+22,rue,FAIDHERBE,Paris
+25,rue,CITEAUX,Paris
+56,quai,ORFÈVRES,Paris
+46,rue,BELLEVILLE,Paris
+19,avenue,GOURGAUD,Paris
+197,rue,SAINT-MARTIN,Paris
+42,rue,CHAMPIONNET,Paris
+11,rue,PRÊTRES St-GERMAIN-L'AUXERROIS,Paris
+64,boulevard,BARBÈS,Paris
+20,rue,DOMRÉMY,Paris
+197,rue,SAINT-MAUR,Paris
+2,boulevard,RICHARD LENOIR,Paris
+7,rue,JARDINS-ST-PAUL,Paris
+13,cité,GUÉNOT,Paris
+8,rue,PHALSBOURG,Paris
+15,rue,DAMES,Paris
+18,rue,ESTRÉES,Paris
+4,impasse,ROYER-COLLARD,Paris
+10,rue,VIEILLE DU TEMPLE,Paris
+1,rue,VERTUS,Paris
+32,rue,POISSONNIÈRE,Paris
+7,rue,BRANTOME,Paris
+6,rue,DONIZETTI,Paris
+34,rue,ENGHIEN,Paris
+2,rue,VIEUX-COLOMBIER,Paris
+4,passage,CHEMIN-VERT,Paris
+37,rue,PLAISANCE,Paris
+71,boulevard,BELLEVILLE,Paris
+15,rue et place,MARCHÉ-ST-HONORÉ,Paris
+21,rue,CUSTINE,Paris
+12,cité,MALESHERBES,Paris
+3,villa,MONCEAU,Paris
+2,rue,CHÉRUBINI,Paris
+271,rue,BELLEVILLE,Paris
+43,rue,ROUELLE,Paris
+17,rue,RICHARD LENOIR,Paris
+100,rue,SAINT-DOMINIQUE,Paris
+5,rue,PONT-LOUIS-PHILIPPE,Paris
+83,rue,ENTREPRENEURS,Paris
+15,rue,TOURTILLE,Paris
+10,rue,AUBRY-LE-BOUCHER,Paris
+17,rue,RÉBEVAL,Paris
+6,rue,DURIS,Paris
+17,rue,JUSSIEU,Paris
+54,rue,JACOB,Paris
+21,rue,QUATRE-SEPTEMBRE,Paris
+41,rue,CHATEAU D'EAU,Paris
+35,rue,CHEVERT,Paris
+56,rue,VANEAU,Paris
+27,rue,GROS,Paris
+13,rue,VERSIGNY,Paris
+93,rue,OUEST,Paris
+1,rue,NÉVA,Paris
+21,rue,CLÉMENT MAROT,Paris
+8,rue,FONTARABIE,Paris
+11,rue,TOULLIER,Paris
+19,rue,JACQUIER,Paris
+124,rue,MÉNILMONTANT,Paris
+123,rue,VERCINGÉTORIX,Paris
+5,rue,AMÉLIE,Paris
+72,rue,CLÉRY,Paris
+45,rue,VINEUSE,Paris
+4,rue,CLER,Paris
+146,rue,SAINT-DENIS,Paris
+15,impasse,DÉFENSE,Paris
+69,avenue,St-OUEN,Paris
+2,rue,JULIETTE LAMBER,Paris
+33,quai,JAVEL,Paris
+15,rue,BELLECHASSE,Paris
+12,boulevard,MONTPARNASSE,Paris
+86,rue,AQUEDUC,Paris
+1,rue,RONDEAUX,Paris
+12,rue,COLISÉE,Paris
+7,rue,MESSAGERIES,Paris
+5,rue,WEBER,Paris
+20,rue,SAINT-FIACRE,Paris
+24,rue,DUFRÉNOY,Paris
+39,rue,CONDORCET,Paris
+66,rue,PONTHIEU,Paris
+37,rue,DURANTIN,Paris
+13,passage,NATIONAL,Paris
+4,rue,GUSTAVE DORÉ,Paris
+2,rue,CAUMARTIN,Paris
+29,boulevard,COURCELLES,Paris
+9,rue,HALLÉ,Paris
+56,avenue,MAINE,Paris
+22,rue,ROQUETTE,Paris
+40,rue,BOURSAULT,Paris
+45,rue,NANTES,Paris
+6,rue,AMIRAL COURBET,Paris
+6,rue,DARCET,Paris
+7,rue,GRENELLE,Paris
+10,rue,SUGER,Paris
+23,rue,ALEMBERT,Paris
+2,rue,SAINT-PÉTERSBOURG,Paris
+44,rue,AVRON,Paris
+9,cité,BEAUHARNAIS,Paris
+41,rue,LA JONQUIÈRE,Paris
+56,rue,GALANDE,Paris
+21,rue,LA BOETIE,Paris
+66,rue,MATHURINS,Paris
+16,rue,CHAMPOLLION,Paris
+26,rue,AMPÈRE,Paris
+6,rue,ISLY,Paris
+17,passage,INDUSTRIE,Paris
+3,rue,PERRÉE,Paris
+15,rue,PERDONNET,Paris
+2,rue,LETELLIER,Paris
+7,rue,NEUVE DES BOULETS,Paris
+14,rue,LESDIGUIÈRES,Paris
+14,rue,BRÉMONTIER,Paris
+87,rue,MOZART,Paris
+27,rue et place,SAINT-GEORGES,Paris
+54,rue,FAUBOURG MONTMARTRE,Paris
+14,rue,BUOT,Paris
+30,rue,ARBALETE,Paris
+36,rue,FEUTRIER,Paris
+24,rue,CHINE,Paris
+12,rue,FONTAINE-à-MULARD,Paris
+12,rue,SAINT-VICTOR,Paris
+57,rue,VIEILLE DU TEMPLE,Paris
+14,rue,CLAUDE TILLIER,Paris
+23,rue,MÉNILMONTANT,Paris
+21,rue,RÉAUMUR,Paris
+1,rue,FAIDHERBE,Paris
+20,rue,GALILÉE,Paris
+93,rue,POTEAU,Paris
+9,rue,POMEREU,Paris
+14,rue,MADAGASCAR,Paris
+2,rue,LA MICHODIÈRE,Paris
+23,boulevard,MALESHERBES,Paris
+199,rue,BELLEVILLE,Paris
+135,boulevard,MAGENTA,Paris
+7,rue,COPENHAGUE,Paris
+22,avenue,PHILIPPE-AUGUSTE,Paris
+25,avenue,PHILIPPE-AUGUSTE,Paris
+30,quai,CÉLESTINS,Paris
+4,rue,BAUCHES,Paris
+31,rue,ENGHIEN,Paris
+35,rue,CROULEBARBE,Paris
+202,rue,SAINT-CHARLES,Paris
+1,rue,TANGER,Paris
+160,rue,GRENELLE,Paris
+9,rue,LISBONNE,Paris
+51,rue,MARAICHERS,Paris
+4,passage,MARCHÉ-ST-MARTIN,Paris
+70,rue,BONAPARTE,Paris
+142,avenue,VERSAILLES,Paris
+111,avenue,LA BOURDONNAIS,Paris
+6,rue,MORAND,Paris
+3,rue,PAPILLON,Paris
+5,rue,SAINTE-EUGÉNIE,Paris
+11,rue,THIBAUD,Paris
+7,rue,TANDOU,Paris
+4,rue,MEYNADIER,Paris
+54,rue,MOURAUD,Paris
+11,rue,DU SOMMERARD,Paris
+57,rue,MOULIN DE LA POINTE,Paris
+182,rue,TOLBIAC,Paris
+91,rue,CLÉRY,Paris
+18,avenue,GOURGAUD,Paris
+10,rue,PETITS-CARREAUX,Paris
+2,rue,GUSTAVE FLAUBERT,Paris
+2,rue,MAISON-BLANCHE,Paris
+18,boulevard,COURCELLES,Paris
+7,rue,SAINT-BENOIT,Paris
+17,rue,SAINT-PAUL,Paris
+25,rue,TERRASSE,Paris
+57,avenue,CHOISY,Paris
+38,avenue,PARMENTIER,Paris
+1,rue,BIENFAISANCE,Paris
+17,rue,ASTORG,Paris
+17,rue,CRIMÉE,Paris
+1,rue,RASSELINS,Paris
+46,rue,MOZART,Paris
+1,rue,ROBERT ESTIENNE,Paris
+20,rue,ORDENER,Paris
+42,rue,ROCHER,Paris
+3,passage,RAGUINOT,Paris
+66,rue,GRENELLE,Paris
+42,rue,GODEFROY-CAVAIGNAC,Paris
+53,rue,RÉAUMUR,Paris
+13,rue,SAINT-MÉDARD,Paris
+52,passage,CHOISEUL,Paris
+119,rue,OUEST,Paris
+38,rue,SIBUET,Paris
+171,rue,CROIX-NIVERT,Paris
+8,rue,LE MAROIS,Paris
+165,rue,BELLEVILLE,Paris
+6,rue,PHILIBERT DELORME,Paris
+5,rue,BERRYER,Paris
+53,rue,AMPÈRE,Paris
+6,rue,POPINCOURT,Paris
+9,rue,POISSY,Paris
+22,passage,CAIRE,Paris
+16,rue,MOUZAIA,Paris
+27,rue,BONAPARTE,Paris
+116,rue,TEMPLE,Paris
+14,rue,WATTIGNIES,Paris
+76,rue,PRONY,Paris
+24,rue,EURE,Paris
+15,rue,VANDAL,Paris
+15,rue,GEOFFROY-MARIE,Paris
+71,rue,VOLGA,Paris
+88,rue,ABOUKIR,Paris
+38,rue,CROIX-NIVERT,Paris
+9,boulevard,DELESSERT,Paris
+27,rue,VICTOR MASSÉ,Paris
+16,avenue,GOBELINS,Paris
+42,rue,JACOB,Paris
+80,boulevard,MALESHERBES,Paris
+12,rue,GABRIELLE,Paris
+21,boulevard,NEY,Paris
+17,quai,GIRONDE,Paris
+40,rue,MONTMORENCY,Paris
+49,rue,SURMELIN,Paris
+2,rue,POMARD,Paris
+27,rue,RÉAUMUR,Paris
+38,avenue,DAUMESNIL,Paris
+64,rue,MOUFFETARD,Paris
+43,rue,BASFROI,Paris
+7,rue,BLAISE,Paris
+12,impasse,GROSSE-BOUTEILLE,Paris
+9,rue,TOMBE-ISSOIRE,Paris
+30,rue,FONTAINE-AU-ROI,Paris
+31,rue,BEAUNE,Paris
+2,avenue,MONTESPAN,Paris
+85,rue,ROUSSIN,Paris
+25,rue,NIGER,Paris
+94,rue,BOILEAU,Paris
+72,rue,CARDINAL-LEMOINE,Paris
+153,rue,BELLEVILLE,Paris
+11,rue,MONT-THABOR,Paris
+15,rue,ÉCOLE POLYTECHNIQUE,Paris
+32,boulevard,SAINT-MARCEL,Paris
+57,rue,TRUFFAUT,Paris
+2,impasse,SAINT-SAUVEUR,Paris
+66,rue,LONGCHAMP,Paris
+7,boulevard,DAVOUT,Paris
+59,rue,BRETAGNE,Paris
+34,rue,SAINT-MAUR,Paris
+5,passage,SAINTE-AVOIE,Paris
+73,avenue,GOBELINS,Paris
+30,rue,DUVIVIER,Paris
+161,rue,FAUBOURG SAINT-ANTOINE,Paris
+43,rue,FAIDHERBE,Paris
+1,rue,ERNEST RENAN,Paris
+95,rue,CLIGNANCOURT,Paris
+5,rue,GEOFFROY-ST-HILAIRE,Paris
+2,rue,VAUVILLIERS,Paris
+131,rue,BOLIVAR,Paris
+88,rue,SAINT-DENIS,Paris
+43,rue,LONGCHAMP,Paris
+91,rue,RIVOLI,Paris
+72,rue,TOURNELLES,Paris
+164,rue,COURCELLES,Paris
+33,rue,FAUBOURG ST-HONORÉ,Paris
+4,rue,CROZATIER,Paris
+10,rue,THÉRÈSE,Paris
+15,rue,FONDARY,Paris
+48,rue,DESCARTES,Paris
+64,rue,ENTREPRENEURS,Paris
+29,rue,DUMÉRIL,Paris
+6,rue,COTTE,Paris
+31,rue,RETRAIT,Paris
+15,passage,INDUSTRIE,Paris
+5,rue,PERDONNET,Paris
+152,rue,MÉNILMONTANT,Paris
