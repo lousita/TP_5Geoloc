@@ -1,13 +1,4 @@
 number,type,name,city
-22,rue,FAUBOURG POISSONNIÈRE,Paris
-19,rue,CHALIGNY,Paris
-77,rue,LILLE,Paris
-64,rue,BAGNOLET,Paris
-39,rue,ROMAINVILLE,Paris
-4,rue,PIERRE DUPONT,Paris
-3,place,MARCHÉ-Ste-CATHERINE,Paris
-19,rue,VIALA,Paris
-16,rue,ESPÉRANCE,Paris
 51,rue,GRENELLE,Paris
 49,rue,LEPIC,Paris
 14,rue,DEBELLEYME,Paris
@@ -999,3 +990,12 @@ number,type,name,city
 15,passage,INDUSTRIE,Paris
 5,rue,PERDONNET,Paris
 152,rue,MÉNILMONTANT,Paris
+2,rue,ÉCHELLE,Paris
+5,rue,CLAIRAUT,Paris
+13,rue,TEXEL,Paris
+114,rue,MEAUX,Paris
+229,boulevard,RASPAIL,Paris
+3,rue,BAULANT,Paris
+5,rue,GUYOT,Paris
+23,rue,FAUBOURG SAINT-ANTOINE,Paris
+112,rue,BLOMET,Paris
